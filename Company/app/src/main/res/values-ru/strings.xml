@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компания</string>
+    <string name="textView3">Список</string>
+    <string name="add">Добавить</string>
+    <string name="list">Список</string>
+    <string name="Name">Имя</string>
+    <string name="Surname">Фамилия</string>
+    <string name="dateofbirth">Дата рождения</string>
+    <string name="city">Город</string>
+    <string name="City1">Киев</string>
+    <string name="City2">Харьков</string>
+    <string name="City3">Одесса</string>
+    <string name="City4">Львов</string>
+    <string name="job1">Доктор</string>
+    <string name="job2">Фармацевт</string>
+    <string name="job3">Медсестра</string>
+    <string name="job4">Фельдшер</string>
+    <string name="job5">Водитель</string>
+    <string name="job">Должность</string>
+    <string name="Close">Закрыть</string>
+    <string name="Delete">Удалить</string>
+    <string name="Save">Сохранить</string>
+    <string name="list_empty">Список пуст</string>
+    <string name="deleted_entry">Позиция удалена</string>
+    <string name="created_entry">Позиция создана</string>
+    <string name="updated_entry">Позиция обновлена</string>
+    <string name="Set">Установить</string>
+    <string name="year_birth">Год рожения</string>
+    <string name="age">Возраст</string>
+</resources>

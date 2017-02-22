@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="textView3">List</string>
+    <string name="add">Add</string>
+    <string name="list">List</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="dateofbirth">Date of Birth</string>
+    <string name="city">City</string>
+    <string name="City1">Kiev</string>
+    <string name="City2">Kharkiv</string>
+    <string name="City3">Odessa</string>
+    <string name="City4">Lvov</string>
+    <string name="job1">doctor</string>
+    <string name="job2">farmacy</string>
+    <string name="job3">nurse</string>
+    <string name="job4">paramedic</string>
+    <string name="job5">Driver</string>
+    <string name="job">Position</string>
+    <string name="ListAll">List All</string>
+    <string name="Close">Close</string>
+    <string name="Save">Save</string>
+    <string name="Delete">Delete</string>
+    <string name="list_empty">List empty</string>
+    <string name="created_entry">Created  entry</string>
+    <string name="updated_entry">Updated entry</string>
+    <string name="deleted_entry">Deleted entry</string>
+    <string name="Set">Set</string>
+    <string name="year_birth">Birth year</string>
+    <string name="age">Age</string>
+</resources>

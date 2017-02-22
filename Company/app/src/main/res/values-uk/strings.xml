@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компанія</string>
+    <string name="textView3">Список</string>
+    <string name="add">Додати</string>
+    <string name="list">Перелік</string>
+    <string name="Name">Ім`я</string>
+    <string name="Surname">Прізвище</string>
+    <string name="dateofbirth">Рік народження</string>
+    <string name="City1">Київ</string>
+    <string name="City2">Харків</string>
+    <string name="City3">Одеса</string>
+    <string name="City4">Львів</string>
+    <string name="job1">Лікар</string>
+    <string name="job2">Фармацевт</string>
+    <string name="job3">Медсестра</string>
+    <string name="job4">Фельдшер</string>
+    <string name="job5">Водій</string>
+    <string name="job">Посада</string>
+    <string name="city">Місто</string>
+    <string name="Close">Закрити</string>
+    <string name="Delete">Удалити</string>
+    <string name="Save">Зберегти</string>
+    <string name="list_empty">Перелік пустий</string>
+    <string name="updated_entry">Оновлено</string>
+    <string name="deleted_entry">Видалено</string>
+    <string name="created_entry">Запис створено</string>
+    <string name="Set">Встановити</string>
+    <string name="year_birth">Рік народження</string>
+    <string name="age">Вік</string>
+</resources>
